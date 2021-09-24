@@ -42,7 +42,7 @@ Before exporting the notebook to html, all of the code cells need to have been r
 
 Add the `hmm tagger.ipynb` and `hmm tagger.html` files to a zip archive named `Assignment2_andrewID.zip` and submit it on our canvas assignments page.
 
-#### Submission Deadline: October 3rd, 11:59 PM
+#### Submission Deadline: October 7th, 11:59 PM
 
 #### Bonus Points: Early submission
 If you submit the entire homework no later than 48 hours before the deadline, and the total score on the rest of this homework assignment is at least 10 points, you will receive 5 bonus point. The bonus point will be added to the total score of this homework assignment.
